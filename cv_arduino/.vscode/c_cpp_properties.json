@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/humble/include/**",
+        "/home/aryan/kle_tech/src/bot_nav/include/**",
+        "/home/aryan/kle_tech/src/bot_new/include/**",
+        "/home/aryan/kle_tech/src/bot_slam/include/**",
+        "/home/aryan/kle_tech/src/cv_arduino/include/**",
+        "/home/aryan/kle_tech/src/ex_turtlesim/include/**",
+        "/home/aryan/kle_tech/src/my_pkg2/include/**",
+        "/home/aryan/kle_tech/src/pub_sub/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
