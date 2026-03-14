@@ -70,17 +70,8 @@ Below are the results of the computer vision processing using OpenCV.
 
 ### Camera Detection Output
 
-<img src="images/output1.png" width="600">
+<img src="Screenshot from 2026-03-14 14-46-36.png" width="600">
 
-### Image Processing Result
-
-<img src="images/output2.png" width="600">
-
-### Vision Processing Pipeline
-
-<img src="images/output3.png" width="600">
-
----
 
 # 🚀 Features
 
